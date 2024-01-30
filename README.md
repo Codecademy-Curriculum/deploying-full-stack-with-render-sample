@@ -1,4 +1,4 @@
-## Deploying a Full-Stack App with Render
+## Deploying a Full-Stack App with Render (forked from tutorial from Codecademy)
 Hello! This GitHub repo is intended to be used with the article [Deploying a Full-Stack App with Render](https://www.codecademy.com/articles/deploying-a-full-stack-application-with-render).
 
 Make sure to follow the steps as outlined in the article to see how to use Render for your deployment needs!
